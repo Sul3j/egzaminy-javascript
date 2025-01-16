@@ -1,0 +1,8 @@
+skrypt
+
+- Napisany w języku JavaScript
+- Składa się z funkcji wywoływanej po wciśnięciu przycisku
+- Pobiera wartość wpisaną w polu edycyjnym
+- Ustala tło w formacie HSL dla komórek tabeli. Składowa H odpowiada wartości pobranej z pola edycyjnego, wartość L jest stała i wynosi zawsze 50%, wartość S jest różna dla poszczególnych komórek tabeli i wynosi:
+- dla pierwszego wiersza 100%
+- dla drugiego wiersza, kolejno w czterech komórkach: 80%, 60%, 40% i 20%
