@@ -1,0 +1,8 @@
+skrypt:
+
+- Napisany w języku JavaScript i wykonujący akcje spowodowane zdarzeniami kontrolek. Akcje modyfikują styl CSS bloku prawego i jego elementów, na podstawie przykładu przedstawionego na Obrazie 2b
+- Po kliknięciu na dowolny przycisk zmieniający tło, zostaje zmienione tło bloku prawego na kolor odpowiadający podpisowi przycisku
+- Po kliknięciu pola wyboru koloru czcionki, zostaje zmieniony kolor czcionki bloku prawego na kolor odpowiadający wyborowi
+- Po wpisaniu rozmiaru czcionki i wyjściu z kontrolki (tabulacją lub kliknięciem myszą w obszar poza kontrolką), zmieniany jest rozmiar czcionki dla całego bloku prawego. Nie jest wymagana walidacja tego pola, należy założyć, że pole jest wypełnione poprawnie
+- Po kliknięciu w pole checkbox, w zależności od stanu pola, jest dodawane lub usuwane obramowanie obrazu – wymagana realizacja zdarzenia za pomocą funkcji
+- Po kliknięciu w pola radio jest ustawiony wybrany rodzaj formatowania punktorów listy
