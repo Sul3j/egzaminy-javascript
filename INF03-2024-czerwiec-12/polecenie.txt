@@ -1,0 +1,21 @@
+Skrypt
+Wymagania dotyczące skryptu:
+‒ Napisany w języku JavaScript
+‒ Należy stosować znaczące nazewnictwo wszystkich zmiennych i funkcji
+‒ Realizuje transformacje obrazów. Przykładowe wyniki transformacji są umieszczone w tabeli 1. 
+Tabela 3 specyfikuje wartości właściwości filter, którą należy zastosować w skryptach
+‒ Transformacje obrazu 1:
+‒ Gdy zaznaczono pole Blur na obraz jest nakładany filtr rozmycia o dowolnej wartości z przedziału 
+4 px ÷ 8 px
+‒ Gdy zaznaczono pole Sepia na obraz nakładany jest filtr kolorów sepii (efekt starej fotografii) 
+o wartości 100%
+‒ Gdy zaznaczono pole Negatyw na obraz nakładany jest filtr odwrócenia kolorów (negatyw) 
+w 100%
+‒ Transformacje obrazu 2:
+‒ Po wciśnięciu przycisku „Kolory” obraz ma zdjęty filtr odcieni szarości
+‒ Po wciśnięciu przycisku „Czarno-biały” na obraz jest nakładany filtr odcieni szarości o wartości 
+100%
+‒ Transformacje obrazu 3: Po wciśnięciu przycisku „Zastosuj” na obraz jest nakładany filtr 
+przezroczystości o wartości, która została wskazana suwakiem
+‒ Transformacje obrazu 4: Po wciśnięciu przycisku „Zastosuj” na obraz jest nakładany filtr zmiany 
+jasności o wartości, która została wskazana suwakiem.
